@@ -85,3 +85,4 @@ let data = [
         "speciality": "backend"
     },
 ]
+export default data
